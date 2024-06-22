@@ -6,7 +6,11 @@
 
 ## 📌 Feactures
 
- * ✔ One
+ * ✔ Ejemplos basicos
+ * ✔ Crear Carpetas
+ * ✔ Menu opciones
+ * ✔ Arbrir archivos y programas
+ * ✔ Otros
 
 ## 🌐 Installation
 
