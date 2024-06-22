@@ -6,10 +6,12 @@ start "My assignment" cmd /k "color 8F & ver"
 
 :: cd app directory, and start it
 cd C:\www\nodejs\propio\2024\nestjs-template
+::start cmd /k "color 2F & ver"
 start cmd /k "npm run start:dev"^&color 2F
 
 :: "color F1 & ver"
 :: "color 1F & ver"
+:: "color 2F & ver"
 ::cmd /k cd c:\ is the right answer
 
 :: 0 = Black       8 = Gray
