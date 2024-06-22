@@ -9,7 +9,8 @@
  * ✔ Ejemplos basicos
  * ✔ Crear Carpetas
  * ✔ Menu opciones
- * ✔ Arbrir archivos y programas
+ * ✔ Abrir archivos y programas
+ * ✔ Ejecutar comandos cmd y color
  * ✔ Otros
 
 ## 🌐 Installation
