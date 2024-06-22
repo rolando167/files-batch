@@ -1,0 +1,12 @@
+ El volumen de la unidad C no tiene etiqueta.
+ El n£mero de serie del volumen es: 90B1-F1EC
+
+ Directorio de C:\www\bat\curso\curso-batch\clases
+
+22/06/2024  19:40    <DIR>          .
+22/06/2024  19:40    <DIR>          ..
+22/06/2024  19:36                64 clase_1.bat
+22/06/2024  19:40               122 clase_2.bat
+22/06/2024  19:40                 0 lista.txt
+               3 archivos            186 bytes
+               2 dirs  245,713,862,656 bytes libres
