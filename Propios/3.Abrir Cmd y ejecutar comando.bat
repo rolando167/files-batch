@@ -12,7 +12,7 @@ start cmd /k "npm run start:dev"^&color 2F
 :: "color F1 & ver"
 :: "color 1F & ver"
 :: "color 2F & ver"
-::cmd /k cd c:\ is the right answer
+:: 🚩
 
 :: 0 = Black       8 = Gray
 :: 1 = Blue        9 = Light Blue

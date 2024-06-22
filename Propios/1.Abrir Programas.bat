@@ -6,5 +6,5 @@ Start cmd.exe
 
 Start C:\www\bat\curso\curso-batch\clases\data\info.txt
 
-::Abrir un programa ir a "propiedades" y copiar toda ruta ejemp "...\Postman.exe"
+:: 🚩 Abrir un programa ir a "propiedades" y copiar toda ruta ejemp "...\Postman.exe"
 exit

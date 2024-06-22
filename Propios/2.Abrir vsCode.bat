@@ -6,6 +6,6 @@ code "C:\Users\Rolando\Desktop\www\Code A" | exit
 
 code "C:\Users\Rolando\Desktop\www\Code B" | exit
 
-:: Al 99% :D
+:: Al 99% :D 🚩
 
 exit
