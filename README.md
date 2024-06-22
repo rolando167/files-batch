@@ -51,6 +51,10 @@ Please make sure to update tests as appropriate.
 # returns 'words'
  * YT - ✔️ Curso batch GRATIS | Tutorial | hola mundo | vídeo 1-10
  * YT - Plantilla de menú - Curso Bat/Batch Windows
+ * https://stackoverflow.com/questions/51132235/opening-project-in-vscode-using-batch-file
+ * https://stackoverflow.com/questions/75361941/opening-multiple-instances-of-vs-code-via-batch-file
+ * https://techcommunity.microsoft.com/t5/windows-10/bat-file-to-open-cmd-prompt-change-directory-and-execute-python/m-p/2558640
+ * 
 ```
 
 ## License
