@@ -12,6 +12,7 @@
  * ✔ Abrir archivos y programas
  * ✔ Ejecutar comandos cmd y color
  * ✔ Sincronizar cambios git
+ * ✔ Fecha
  * ✔ Otros
 
 ## 🌐 Installation
