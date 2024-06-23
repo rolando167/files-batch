@@ -59,6 +59,8 @@ Please make sure to update tests as appropriate.
  * https://stackoverflow.com/questions/33845154/open-cmd-with-specific-color-and-title
  * https://bitbucket.org/blog/automate-git-commands-across-repos-using-batch-scripts-and-windows-scheduler
  * https://stackoverflow.com/questions/46941346/how-to-know-the-git-username-and-email-saved-during-configuration
+ * https://stackoverflow.com/questions/42318673/changing-the-git-user-inside-visual-studio-code
+ * 
 ```
 
 ## License
