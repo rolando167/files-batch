@@ -57,6 +57,7 @@ Please make sure to update tests as appropriate.
  * https://techcommunity.microsoft.com/t5/windows-10/bat-file-to-open-cmd-prompt-change-directory-and-execute-python/m-p/2558640
  * https://stackoverflow.com/questions/33845154/open-cmd-with-specific-color-and-title
  * https://bitbucket.org/blog/automate-git-commands-across-repos-using-batch-scripts-and-windows-scheduler
+ * https://stackoverflow.com/questions/46941346/how-to-know-the-git-username-and-email-saved-during-configuration
 ```
 
 ## License
