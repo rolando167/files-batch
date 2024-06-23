@@ -11,6 +11,7 @@
  * ✔ Menu opciones
  * ✔ Abrir archivos y programas
  * ✔ Ejecutar comandos cmd y color
+ * ✔ Sincronizar cambios git
  * ✔ Otros
 
 ## 🌐 Installation
